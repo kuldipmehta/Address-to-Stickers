@@ -1,0 +1,100 @@
+C:\TRDS Work\Work\Labely\Labely\bin\Debug\LabelyDB.sdf
+C:\TRDS Work\Work\Labely\Labely\bin\Debug\Labely.exe.config
+C:\TRDS Work\Work\Labely\Labely\bin\Debug\Labely.exe
+C:\TRDS Work\Work\Labely\Labely\bin\Debug\Labely.pdb
+C:\TRDS Work\Work\Labely\Labely\bin\Debug\EntityFramework.dll
+C:\TRDS Work\Work\Labely\Labely\bin\Debug\EntityFramework.SqlServer.dll
+C:\TRDS Work\Work\Labely\Labely\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\TRDS Work\Work\Labely\Labely\bin\Debug\MahApps.Metro.dll
+C:\TRDS Work\Work\Labely\Labely\bin\Debug\MaterialDesignColors.dll
+C:\TRDS Work\Work\Labely\Labely\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\TRDS Work\Work\Labely\Labely\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\TRDS Work\Work\Labely\Labely\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\TRDS Work\Work\Labely\Labely\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\TRDS Work\Work\Labely\Labely\bin\Debug\System.Data.SqlServerCe.dll
+C:\TRDS Work\Work\Labely\Labely\bin\Debug\System.Windows.Interactivity.dll
+C:\TRDS Work\Work\Labely\Labely\bin\Debug\Z.EntityFramework.Extensions.dll
+C:\TRDS Work\Work\Labely\Labely\bin\Debug\EntityFramework.xml
+C:\TRDS Work\Work\Labely\Labely\bin\Debug\EntityFramework.SqlServer.xml
+C:\TRDS Work\Work\Labely\Labely\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\TRDS Work\Work\Labely\Labely\bin\Debug\MahApps.Metro.pdb
+C:\TRDS Work\Work\Labely\Labely\bin\Debug\MahApps.Metro.xml
+C:\TRDS Work\Work\Labely\Labely\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\TRDS Work\Work\Labely\Labely\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\TRDS Work\Work\Labely\Labely\obj\Debug\Labely.csprojResolveAssemblyReference.cache
+C:\TRDS Work\Work\Labely\Labely\obj\Debug\Command\CustomDialogBox.baml
+C:\TRDS Work\Work\Labely\Labely\obj\Debug\Command\CustomDialogBox.g.cs
+C:\TRDS Work\Work\Labely\Labely\obj\Debug\MainWindow.g.cs
+C:\TRDS Work\Work\Labely\Labely\obj\Debug\Print\PAGE\Lable24.g.cs
+C:\TRDS Work\Work\Labely\Labely\obj\Debug\Print\PAGE\PrintWindow.g.cs
+C:\TRDS Work\Work\Labely\Labely\obj\Debug\Print\ReportWindow.g.cs
+C:\TRDS Work\Work\Labely\Labely\obj\Debug\View\GroupDetailView.g.cs
+C:\TRDS Work\Work\Labely\Labely\obj\Debug\View\GroupView.g.cs
+C:\TRDS Work\Work\Labely\Labely\obj\Debug\App.g.cs
+C:\TRDS Work\Work\Labely\Labely\obj\Debug\Labely_Content.g.cs
+C:\TRDS Work\Work\Labely\Labely\obj\Debug\Labely_MarkupCompile.cache
+C:\TRDS Work\Work\Labely\Labely\obj\Debug\Labely_MarkupCompile.lref
+C:\TRDS Work\Work\Labely\Labely\obj\Debug\App.baml
+C:\TRDS Work\Work\Labely\Labely\obj\Debug\MainWindow.baml
+C:\TRDS Work\Work\Labely\Labely\obj\Debug\Print\PAGE\Lable24.baml
+C:\TRDS Work\Work\Labely\Labely\obj\Debug\Print\PAGE\PrintWindow.baml
+C:\TRDS Work\Work\Labely\Labely\obj\Debug\Print\ReportWindow.baml
+C:\TRDS Work\Work\Labely\Labely\obj\Debug\View\GroupDetailView.baml
+C:\TRDS Work\Work\Labely\Labely\obj\Debug\View\GroupView.baml
+C:\TRDS Work\Work\Labely\Labely\obj\Debug\Labely.g.resources
+C:\TRDS Work\Work\Labely\Labely\obj\Debug\Labely.Properties.Resources.resources
+C:\TRDS Work\Work\Labely\Labely\obj\Debug\Labely.csproj.GenerateResource.Cache
+C:\TRDS Work\Work\Labely\Labely\obj\Debug\RdlCompile.cache
+C:\TRDS Work\Work\Labely\Labely\obj\Debug\RdlCompile.compiled
+C:\TRDS Work\Work\Labely\Labely\obj\Debug\Labely.exe
+C:\TRDS Work\Work\Labely\Labely\obj\Debug\Labely.pdb
+C:\TRDS Work\Work\Labely\Labely\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\TRDS Work\Work\Labely\Labely\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\lable24\Labely\Labely\Labely\bin\Debug\LabelyDB.sdf
+D:\lable24\Labely\Labely\Labely\bin\Debug\Labely.exe.config
+D:\lable24\Labely\Labely\Labely\bin\Debug\Labely.exe
+D:\lable24\Labely\Labely\Labely\bin\Debug\Labely.pdb
+D:\lable24\Labely\Labely\Labely\bin\Debug\EntityFramework.dll
+D:\lable24\Labely\Labely\Labely\bin\Debug\EntityFramework.SqlServer.dll
+D:\lable24\Labely\Labely\Labely\bin\Debug\EntityFramework.SqlServerCompact.dll
+D:\lable24\Labely\Labely\Labely\bin\Debug\MahApps.Metro.dll
+D:\lable24\Labely\Labely\Labely\bin\Debug\MaterialDesignColors.dll
+D:\lable24\Labely\Labely\Labely\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\lable24\Labely\Labely\Labely\bin\Debug\System.Windows.Interactivity.dll
+D:\lable24\Labely\Labely\Labely\bin\Debug\Z.EntityFramework.Extensions.dll
+D:\lable24\Labely\Labely\Labely\bin\Debug\EntityFramework.xml
+D:\lable24\Labely\Labely\Labely\bin\Debug\EntityFramework.SqlServer.xml
+D:\lable24\Labely\Labely\Labely\bin\Debug\EntityFramework.SqlServerCompact.xml
+D:\lable24\Labely\Labely\Labely\bin\Debug\MahApps.Metro.pdb
+D:\lable24\Labely\Labely\Labely\bin\Debug\MahApps.Metro.xml
+D:\lable24\Labely\Labely\Labely\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\lable24\Labely\Labely\Labely\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\lable24\Labely\Labely\Labely\obj\Debug\Labely.csproj.AssemblyReference.cache
+D:\lable24\Labely\Labely\Labely\obj\Debug\Labely.csproj.SuggestedBindingRedirects.cache
+D:\lable24\Labely\Labely\Labely\obj\Debug\Labely.exe.config
+D:\lable24\Labely\Labely\Labely\obj\Debug\Command\CustomDialogBox.baml
+D:\lable24\Labely\Labely\Labely\obj\Debug\Command\CustomDialogBox.g.cs
+D:\lable24\Labely\Labely\Labely\obj\Debug\MainWindow.g.cs
+D:\lable24\Labely\Labely\Labely\obj\Debug\Print\PAGE\Lable24.g.cs
+D:\lable24\Labely\Labely\Labely\obj\Debug\Print\PAGE\PrintWindow.g.cs
+D:\lable24\Labely\Labely\Labely\obj\Debug\Print\ReportWindow.g.cs
+D:\lable24\Labely\Labely\Labely\obj\Debug\View\GroupDetailView.g.cs
+D:\lable24\Labely\Labely\Labely\obj\Debug\View\GroupView.g.cs
+D:\lable24\Labely\Labely\Labely\obj\Debug\App.g.cs
+D:\lable24\Labely\Labely\Labely\obj\Debug\Labely_Content.g.cs
+D:\lable24\Labely\Labely\Labely\obj\Debug\Labely_MarkupCompile.cache
+D:\lable24\Labely\Labely\Labely\obj\Debug\Labely_MarkupCompile.lref
+D:\lable24\Labely\Labely\Labely\obj\Debug\App.baml
+D:\lable24\Labely\Labely\Labely\obj\Debug\MainWindow.baml
+D:\lable24\Labely\Labely\Labely\obj\Debug\Print\PAGE\Lable24.baml
+D:\lable24\Labely\Labely\Labely\obj\Debug\Print\PAGE\PrintWindow.baml
+D:\lable24\Labely\Labely\Labely\obj\Debug\Print\ReportWindow.baml
+D:\lable24\Labely\Labely\Labely\obj\Debug\View\GroupDetailView.baml
+D:\lable24\Labely\Labely\Labely\obj\Debug\View\GroupView.baml
+D:\lable24\Labely\Labely\Labely\obj\Debug\Labely.g.resources
+D:\lable24\Labely\Labely\Labely\obj\Debug\Labely.Properties.Resources.resources
+D:\lable24\Labely\Labely\Labely\obj\Debug\Labely.csproj.GenerateResource.cache
+D:\lable24\Labely\Labely\Labely\obj\Debug\Labely.csproj.CoreCompileInputs.cache
+D:\lable24\Labely\Labely\Labely\obj\Debug\Labely.csproj.Up2Date
+D:\lable24\Labely\Labely\Labely\obj\Debug\Labely.exe
+D:\lable24\Labely\Labely\Labely\obj\Debug\Labely.pdb

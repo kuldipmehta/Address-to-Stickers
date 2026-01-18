@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModelStoreContainer" CdmEntityContainer="Entities">
+    <EntitySetMapping Name="GroupDetails">
+      <EntityTypeMapping TypeName="Model.GroupDetail">
+        <MappingFragment StoreEntitySet="GroupDetail">
+          <ScalarProperty Name="GDId" ColumnName="GDId" />
+          <ScalarProperty Name="GMId" ColumnName="GMId" />
+          <ScalarProperty Name="Lable1" ColumnName="Lable1" />
+          <ScalarProperty Name="Lable2" ColumnName="Lable2" />
+          <ScalarProperty Name="Lable3" ColumnName="Lable3" />
+          <ScalarProperty Name="Lable4" ColumnName="Lable4" />
+          <ScalarProperty Name="Lable5" ColumnName="Lable5" />
+          <ScalarProperty Name="Lable6" ColumnName="Lable6" />
+          <ScalarProperty Name="Lable7" ColumnName="Lable7" />
+          <ScalarProperty Name="Lable8" ColumnName="Lable8" />
+          <ScalarProperty Name="Lable9" ColumnName="Lable9" />
+          <ScalarProperty Name="Lable10" ColumnName="Lable10" />
+          <ScalarProperty Name="AddDate" ColumnName="AddDate" />
+          <ScalarProperty Name="EditDate" ColumnName="EditDate" />
+          <ScalarProperty Name="IsDelete" ColumnName="IsDelete" />
+          <ScalarProperty Name="DeleteDate" ColumnName="DeleteDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="GroupMasters">
+      <EntityTypeMapping TypeName="Model.GroupMaster">
+        <MappingFragment StoreEntitySet="GroupMaster">
+          <ScalarProperty Name="GroupId" ColumnName="GroupId" />
+          <ScalarProperty Name="GroupName" ColumnName="GroupName" />
+          <ScalarProperty Name="AddDate" ColumnName="AddDate" />
+          <ScalarProperty Name="EditDate" ColumnName="EditDate" />
+          <ScalarProperty Name="IsDelete" ColumnName="IsDelete" />
+          <ScalarProperty Name="Deletedate" ColumnName="Deletedate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UserMasters">
+      <EntityTypeMapping TypeName="Model.UserMaster">
+        <MappingFragment StoreEntitySet="UserMaster">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

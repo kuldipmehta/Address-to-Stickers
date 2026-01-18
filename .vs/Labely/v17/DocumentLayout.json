@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lable24\\Labely\\Labely\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13765552-37BE-4AB7-9A89-85FA7DAF261A}|Labely\\Labely.csproj|d:\\lable24\\labely\\labely\\labely\\command\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13765552-37BE-4AB7-9A89-85FA7DAF261A}|Labely\\Labely.csproj|solutionrelative:labely\\command\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13765552-37BE-4AB7-9A89-85FA7DAF261A}|Labely\\Labely.csproj|d:\\lable24\\labely\\labely\\labely\\command\\customdialogbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13765552-37BE-4AB7-9A89-85FA7DAF261A}|Labely\\Labely.csproj|solutionrelative:labely\\command\\customdialogbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13765552-37BE-4AB7-9A89-85FA7DAF261A}|Labely\\Labely.csproj|D:\\lable24\\Labely\\Labely\\labely\\viewmodel\\groupdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13765552-37BE-4AB7-9A89-85FA7DAF261A}|Labely\\Labely.csproj|solutionrelative:labely\\viewmodel\\groupdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13765552-37BE-4AB7-9A89-85FA7DAF261A}|Labely\\Labely.csproj|d:\\lable24\\labely\\labely\\labely\\view\\groupview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13765552-37BE-4AB7-9A89-85FA7DAF261A}|Labely\\Labely.csproj|solutionrelative:labely\\view\\groupview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13765552-37BE-4AB7-9A89-85FA7DAF261A}|Labely\\Labely.csproj|d:\\lable24\\labely\\labely\\labely\\view\\groupdetailview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13765552-37BE-4AB7-9A89-85FA7DAF261A}|Labely\\Labely.csproj|solutionrelative:labely\\view\\groupdetailview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13765552-37BE-4AB7-9A89-85FA7DAF261A}|Labely\\Labely.csproj|d:\\lable24\\labely\\labely\\labely\\view\\groupdetailview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13765552-37BE-4AB7-9A89-85FA7DAF261A}|Labely\\Labely.csproj|solutionrelative:labely\\view\\groupdetailview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13765552-37BE-4AB7-9A89-85FA7DAF261A}|Labely\\Labely.csproj|D:\\lable24\\Labely\\Labely\\labely\\print\\page\\printwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13765552-37BE-4AB7-9A89-85FA7DAF261A}|Labely\\Labely.csproj|solutionrelative:labely\\print\\page\\printwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13765552-37BE-4AB7-9A89-85FA7DAF261A}|Labely\\Labely.csproj|D:\\lable24\\Labely\\Labely\\labely\\print\\page\\lable24.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13765552-37BE-4AB7-9A89-85FA7DAF261A}|Labely\\Labely.csproj|solutionrelative:labely\\print\\page\\lable24.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13765552-37BE-4AB7-9A89-85FA7DAF261A}|Labely\\Labely.csproj|d:\\lable24\\labely\\labely\\labely\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13765552-37BE-4AB7-9A89-85FA7DAF261A}|Labely\\Labely.csproj|solutionrelative:labely\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13765552-37BE-4AB7-9A89-85FA7DAF261A}|Labely\\Labely.csproj|d:\\lable24\\labely\\labely\\labely\\view\\groupview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13765552-37BE-4AB7-9A89-85FA7DAF261A}|Labely\\Labely.csproj|solutionrelative:labely\\view\\groupview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13765552-37BE-4AB7-9A89-85FA7DAF261A}|Labely\\Labely.csproj|d:\\lable24\\labely\\labely\\labely\\print\\rdlc\\16label.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{13765552-37BE-4AB7-9A89-85FA7DAF261A}|Labely\\Labely.csproj|solutionrelative:labely\\print\\rdlc\\16label.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13765552-37BE-4AB7-9A89-85FA7DAF261A}|Labely\\Labely.csproj|D:\\lable24\\Labely\\Labely\\labely\\print\\reportwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13765552-37BE-4AB7-9A89-85FA7DAF261A}|Labely\\Labely.csproj|solutionrelative:labely\\print\\reportwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13765552-37BE-4AB7-9A89-85FA7DAF261A}|Labely\\Labely.csproj|D:\\lable24\\Labely\\Labely\\labely\\print\\reportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13765552-37BE-4AB7-9A89-85FA7DAF261A}|Labely\\Labely.csproj|solutionrelative:labely\\print\\reportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13765552-37BE-4AB7-9A89-85FA7DAF261A}|Labely\\Labely.csproj|D:\\lable24\\Labely\\Labely\\labely\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{13765552-37BE-4AB7-9A89-85FA7DAF261A}|Labely\\Labely.csproj|solutionrelative:labely\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\lable24\\Labely\\Labely\\Labely\\Command\\Program.cs",
+              "RelativeDocumentMoniker": "Labely\\Command\\Program.cs",
+              "ToolTip": "D:\\lable24\\Labely\\Labely\\Labely\\Command\\Program.cs",
+              "RelativeToolTip": "Labely\\Command\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T05:45:57.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomDialogBox.xaml",
+              "DocumentMoniker": "D:\\lable24\\Labely\\Labely\\Labely\\Command\\CustomDialogBox.xaml",
+              "RelativeDocumentMoniker": "Labely\\Command\\CustomDialogBox.xaml",
+              "ToolTip": "D:\\lable24\\Labely\\Labely\\Labely\\Command\\CustomDialogBox.xaml",
+              "RelativeToolTip": "Labely\\Command\\CustomDialogBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-17T05:45:54.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GroupDetailView.xaml.cs",
+              "DocumentMoniker": "D:\\lable24\\Labely\\Labely\\Labely\\View\\GroupDetailView.xaml.cs",
+              "RelativeDocumentMoniker": "Labely\\View\\GroupDetailView.xaml.cs",
+              "ToolTip": "D:\\lable24\\Labely\\Labely\\Labely\\View\\GroupDetailView.xaml.cs",
+              "RelativeToolTip": "Labely\\View\\GroupDetailView.xaml.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T05:32:30.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GroupView.xaml.cs",
+              "DocumentMoniker": "D:\\lable24\\Labely\\Labely\\Labely\\View\\GroupView.xaml.cs",
+              "RelativeDocumentMoniker": "Labely\\View\\GroupView.xaml.cs",
+              "ToolTip": "D:\\lable24\\Labely\\Labely\\Labely\\View\\GroupView.xaml.cs",
+              "RelativeToolTip": "Labely\\View\\GroupView.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T05:32:04.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GroupDetailView.xaml",
+              "DocumentMoniker": "D:\\lable24\\Labely\\Labely\\Labely\\View\\GroupDetailView.xaml",
+              "RelativeDocumentMoniker": "Labely\\View\\GroupDetailView.xaml",
+              "ToolTip": "D:\\lable24\\Labely\\Labely\\Labely\\View\\GroupDetailView.xaml",
+              "RelativeToolTip": "Labely\\View\\GroupDetailView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-17T05:31:49.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GroupDetailViewModel.cs",
+              "DocumentMoniker": "D:\\lable24\\Labely\\Labely\\Labely\\ViewModel\\GroupDetailViewModel.cs",
+              "RelativeDocumentMoniker": "Labely\\ViewModel\\GroupDetailViewModel.cs",
+              "ToolTip": "D:\\lable24\\Labely\\Labely\\Labely\\ViewModel\\GroupDetailViewModel.cs",
+              "RelativeToolTip": "Labely\\ViewModel\\GroupDetailViewModel.cs",
+              "ViewState": "AgIAAH0DAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T04:47:53.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PrintWindow.xaml",
+              "DocumentMoniker": "D:\\lable24\\Labely\\Labely\\Labely\\Print\\PAGE\\PrintWindow.xaml",
+              "RelativeDocumentMoniker": "Labely\\Print\\PAGE\\PrintWindow.xaml",
+              "ToolTip": "D:\\lable24\\Labely\\Labely\\Labely\\Print\\PAGE\\PrintWindow.xaml",
+              "RelativeToolTip": "Labely\\Print\\PAGE\\PrintWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-07T04:47:30.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lable24.xaml",
+              "DocumentMoniker": "D:\\lable24\\Labely\\Labely\\Labely\\Print\\PAGE\\Lable24.xaml",
+              "RelativeDocumentMoniker": "Labely\\Print\\PAGE\\Lable24.xaml",
+              "ToolTip": "D:\\lable24\\Labely\\Labely\\Labely\\Print\\PAGE\\Lable24.xaml",
+              "RelativeToolTip": "Labely\\Print\\PAGE\\Lable24.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-07T04:47:35.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserViewmodel.cs",
+              "DocumentMoniker": "D:\\lable24\\Labely\\Labely\\Labely\\ViewModel\\UserViewmodel.cs",
+              "RelativeDocumentMoniker": "Labely\\ViewModel\\UserViewmodel.cs",
+              "ToolTip": "D:\\lable24\\Labely\\Labely\\Labely\\ViewModel\\UserViewmodel.cs",
+              "RelativeToolTip": "Labely\\ViewModel\\UserViewmodel.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T05:32:51.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GroupView.xaml",
+              "DocumentMoniker": "D:\\lable24\\Labely\\Labely\\Labely\\View\\GroupView.xaml",
+              "RelativeDocumentMoniker": "Labely\\View\\GroupView.xaml",
+              "ToolTip": "D:\\lable24\\Labely\\Labely\\Labely\\View\\GroupView.xaml",
+              "RelativeToolTip": "Labely\\View\\GroupView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-17T05:32:10.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "16Label.rdlc [Design]",
+              "DocumentMoniker": "D:\\lable24\\Labely\\Labely\\Labely\\Print\\RDLC\\16Label.rdlc",
+              "RelativeDocumentMoniker": "Labely\\Print\\RDLC\\16Label.rdlc",
+              "ToolTip": "D:\\lable24\\Labely\\Labely\\Labely\\Print\\RDLC\\16Label.rdlc [Design]",
+              "RelativeToolTip": "Labely\\Print\\RDLC\\16Label.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-01-07T04:49:23.074Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReportWindow.xaml.cs",
+              "DocumentMoniker": "D:\\lable24\\Labely\\Labely\\Labely\\Print\\ReportWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Labely\\Print\\ReportWindow.xaml.cs",
+              "ToolTip": "D:\\lable24\\Labely\\Labely\\Labely\\Print\\ReportWindow.xaml.cs",
+              "RelativeToolTip": "Labely\\Print\\ReportWindow.xaml.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAAAMAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T04:50:00.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReportWindow.xaml",
+              "DocumentMoniker": "D:\\lable24\\Labely\\Labely\\Labely\\Print\\ReportWindow.xaml",
+              "RelativeDocumentMoniker": "Labely\\Print\\ReportWindow.xaml",
+              "ToolTip": "D:\\lable24\\Labely\\Labely\\Labely\\Print\\ReportWindow.xaml",
+              "RelativeToolTip": "Labely\\Print\\ReportWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-07T04:49:56.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\lable24\\Labely\\Labely\\Labely\\packages.config",
+              "RelativeDocumentMoniker": "Labely\\packages.config",
+              "ToolTip": "D:\\lable24\\Labely\\Labely\\Labely\\packages.config",
+              "RelativeToolTip": "Labely\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-07T04:41:53.174Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

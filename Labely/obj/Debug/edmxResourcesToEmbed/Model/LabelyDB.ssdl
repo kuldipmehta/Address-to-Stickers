@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model.Store" Provider="System.Data.SqlServerCe.4.0" ProviderManifestToken="4.0" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="GroupDetail">
+    <Key>
+      <PropertyRef Name="GDId" />
+    </Key>
+    <Property Name="GDId" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="GMId" Type="bigint" />
+    <Property Name="Lable1" Type="nvarchar" MaxLength="500" />
+    <Property Name="Lable2" Type="nvarchar" MaxLength="500" />
+    <Property Name="Lable3" Type="nvarchar" MaxLength="500" />
+    <Property Name="Lable4" Type="nvarchar" MaxLength="500" />
+    <Property Name="Lable5" Type="nvarchar" MaxLength="500" />
+    <Property Name="Lable6" Type="nvarchar" MaxLength="500" />
+    <Property Name="Lable7" Type="nvarchar" MaxLength="500" />
+    <Property Name="Lable8" Type="nvarchar" MaxLength="500" />
+    <Property Name="Lable9" Type="nvarchar" MaxLength="500" />
+    <Property Name="Lable10" Type="nvarchar" MaxLength="500" />
+    <Property Name="AddDate" Type="datetime" />
+    <Property Name="EditDate" Type="datetime" />
+    <Property Name="IsDelete" Type="bit" />
+    <Property Name="DeleteDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="GroupMaster">
+    <Key>
+      <PropertyRef Name="GroupId" />
+    </Key>
+    <Property Name="GroupId" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="GroupName" Type="nvarchar" MaxLength="100" />
+    <Property Name="AddDate" Type="datetime" />
+    <Property Name="EditDate" Type="datetime" />
+    <Property Name="IsDelete" Type="bit" />
+    <Property Name="Deletedate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="UserMaster">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserName" Type="nvarchar" MaxLength="100" />
+    <Property Name="Password" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <Association Name="Fk_GroupMaster">
+    <End Role="GroupMaster" Type="Self.GroupMaster" Multiplicity="0..1" />
+    <End Role="GroupDetail" Type="Self.GroupDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="GroupMaster">
+        <PropertyRef Name="GroupId" />
+      </Principal>
+      <Dependent Role="GroupDetail">
+        <PropertyRef Name="GMId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ModelStoreContainer">
+    <EntitySet Name="GroupDetail" EntityType="Self.GroupDetail" store:Type="Tables" />
+    <EntitySet Name="GroupMaster" EntityType="Self.GroupMaster" store:Type="Tables" />
+    <EntitySet Name="UserMaster" EntityType="Self.UserMaster" store:Type="Tables" />
+    <AssociationSet Name="Fk_GroupMaster" Association="Self.Fk_GroupMaster">
+      <End Role="GroupMaster" EntitySet="GroupMaster" />
+      <End Role="GroupDetail" EntitySet="GroupDetail" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
